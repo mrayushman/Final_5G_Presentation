@@ -1,0 +1,31 @@
+/* Base Station circle styling */
+.circle-bs {
+    -fx-fill: lightblue;
+    -fx-stroke: darkblue;
+    -fx-stroke-width: 2;
+}
+
+/* User Equipment circle styling */
+.circle-ue {
+    -fx-fill: red;
+    -fx-stroke: darkred;
+    -fx-stroke-width: 2;
+}
+
+/* Signal Strength bar styling */
+.signal-level {
+    -fx-fill: green;
+}
+
+/* Button and Label styling */
+.button {
+    -fx-font-size: 16px;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.text {
+    -fx-font-size: 14px;
+    -fx-fill: black;
+}
+
